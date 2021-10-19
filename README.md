@@ -7,8 +7,8 @@
 
 ## I'm Computer Engg graduate Working on My Data Science and Analytics Skill's !!
 
-- I’m currently Imporving my Skils and trying to learn Everthing 
-- looking Opportunity for the Same [ Where I can learn and Use My knowledge to over come Complex problem's ] ⚡
+- I’m currently Imporving my Skils and Trying to learn New Things.
+- looking Opportunity for the Same [ Where I can learn and Use My knowledge to over come Complex problem's ]
 
 
 ### Connect with me:
