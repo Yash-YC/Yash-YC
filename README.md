@@ -1,6 +1,7 @@
+<h1 align="center"> Hi there, I'm <i>Yash Chikane</i>👋.</h1>
 <p align="center">
   <b>
-    Hi there, I'm <i>Yash Chikane</i>👋.<br>CSE Working on My Data Science and Analytics Skill's.<br>
+    CSE Working on My Data Science and Analytics Skill's.<br>
     <img src="https://img.shields.io/website?label=YC.com&style=for-the-badge&url=https%3A%2F%2FL.com">
     <img src="https://komarev.com/ghpvc/?username=Yash-Yc&label=Profile%20views&color=0e75b6&style=flat" alt="Yash-Yc" />
   <br>
