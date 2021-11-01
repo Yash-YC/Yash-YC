@@ -1,16 +1,9 @@
 <h1 align="center"> Hi there, I'm <i>Yash Chikane</i>👋.</h1>
 <p align="center">
   <b>
-    CSE Working on My Data Science and Analytics Skill's.<br>
-    <img src="https://img.shields.io/website?label=YC.com&style=for-the-badge&url=https%3A%2F%2FL.com">
+    Computer Engineer Working on My Data Science and Analytics Skill's.<br><br>
+    <img src="https://img.shields.io/website?label=YC.com&style=for-the-badge&url=https%3A%2F%2FL.com"><br>
     <img src="https://komarev.com/ghpvc/?username=Yash-Yc&label=Profile%20views&color=0e75b6&style=flat" alt="Yash-Yc" />
-  <br>
-    <li align="center"><b>I’m currently Imporving my Skils and Trying to learn New Things.</li>
-    <li align="center">Also, Looking Opportunity for the Same. <br> ( Where I can Learn and Use My knowledge to Overcome Complex Problem's )
-  <img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/></p>
-  <br>
-  
----
 <p align="center"> <b>Connect with Me:
 <br><br>
 <a href="https://www.linkedin.com/in/yashchikane"><img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
@@ -49,6 +42,5 @@
 
 [rediffmail]: Chikane.yash@rediffmail.
 [Gmail]: Chikane.yash143@gmail.com
-[youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/yashchikane_
 [linkedin]: https://www.linkedin.com/in/yashchikane
